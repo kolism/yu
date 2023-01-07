@@ -1,4 +1,4 @@
-# You  <img src="extension/icons48.png" width="30"/> 
+# Yu  <img src="extension/icons48.png" width="30"/> 
 
 An auto-completion tool that is you.
 
